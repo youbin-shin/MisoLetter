@@ -1,0 +1,23 @@
+venv/
+.idea/
+# Created by https://www.toptal.com/developers/gitignore/api/python,django,macos,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,django,macos,windows
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+
+# pyenv
+.python-version
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

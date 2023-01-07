@@ -42,7 +42,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'knox',
+    # Project Apps
     'users',
+    'albums',
 ]
 
 MIDDLEWARE = [
